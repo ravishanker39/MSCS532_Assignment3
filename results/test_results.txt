@@ -1,0 +1,16 @@
+test_collision_chain_head_middle_tail (test_algorithms.HashTests.test_collision_chain_head_middle_tail) ... ok
+test_growth_shrink_and_boundary_keys (test_algorithms.HashTests.test_growth_shrink_and_boundary_keys) ... ok
+test_insert_search_update_delete_and_none (test_algorithms.HashTests.test_insert_search_update_delete_and_none) ... ok
+test_invalid_keys_leave_state_intact (test_algorithms.HashTests.test_invalid_keys_leave_state_intact) ... ok
+test_ten_thousand_model_operations (test_algorithms.HashTests.test_ten_thousand_model_operations) ... ok
+test_all_seven_element_permutations (test_algorithms.SortingTests.test_all_seven_element_permutations) ... ok
+test_empty_singleton_and_negative_values (test_algorithms.SortingTests.test_empty_singleton_and_negative_values) ... ok
+test_exhaustive_short_arrays (test_algorithms.SortingTests.test_exhaustive_short_arrays) ... ok
+test_large_ordered_and_repeated_inputs (test_algorithms.SortingTests.test_large_ordered_and_repeated_inputs) ... ok
+test_partition_invariant_for_every_pivot (test_algorithms.SortingTests.test_partition_invariant_for_every_pivot) ... ok
+test_seeded_random_arrays (test_algorithms.SortingTests.test_seeded_random_arrays) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 1.038s
+
+OK

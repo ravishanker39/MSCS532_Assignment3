@@ -1,0 +1,29 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "implementation": "CPython",
+  "system": "Linux",
+  "release": "6.18.57",
+  "machine": "x86_64",
+  "sizes": [
+    128,
+    512,
+    2048,
+    4096
+  ],
+  "trials": 7,
+  "timer": "perf_counter_ns",
+  "timer_resolution_seconds": 1e-09,
+  "method": "same partition code; paired inputs; alternating order; one warmup/configuration; GC disabled during timing; input copying and validation excluded",
+  "source_sha256": {
+    "algorithms/__init__.py": "128cb4344fdf75fdb25185fe32d94944f591e62bfe46e85fb811b078125abfa4",
+    "algorithms/hash_table.py": "b857d24cfff7b49d98118bc2696672ecb2d79714bd723e3e8f6e73bb65541df2",
+    "algorithms/quicksort.py": "24549109f48b04fc81ed7fa7665512ec7209421fb8c30fcd009b3862bf6a7cf7"
+  },
+  "hash_experiment": "20 independently seeded tables per load factor; capacity 1024; resizing disabled; 1024 absent queries; every inserted key queried",
+  "final_source_sha256": {
+    "algorithms/__init__.py": "128cb4344fdf75fdb25185fe32d94944f591e62bfe46e85fb811b078125abfa4",
+    "algorithms/hash_table.py": "cbe8b9f76ca49b3fd67f5bf98308691261e841e134d5e435df798749d74aa6a1",
+    "algorithms/quicksort.py": "e67972c077873446f47d2f2a15a1d4ceecbf28a8d9fea38d54e01716aff8d036"
+  },
+  "provenance_note": "source_sha256 records the measured algorithm snapshot. final_source_sha256 includes only docstring formatting after measurement."
+}

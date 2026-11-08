@@ -1,0 +1,2 @@
+# Optional; core code and experiments need only the standard library.
+matplotlib>=3.8,<4
