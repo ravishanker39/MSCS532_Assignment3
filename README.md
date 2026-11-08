@@ -106,9 +106,3 @@ The **11 passing tests** contain substantially more than 11 input cases: 3,280 t
 | Repository organization | All implementation, test, report and result files organized in this folder |
 
 The report cites the sources used for the theoretical background. Standard algorithm names and mathematical notation are retained for accuracy.
-
-## Submission
-
-Repository: https://github.com/ravishanker39/MSCS532_Assignment3
-
-Submit this repository URL for Assignment 3. The repository includes the Python implementation, tests, measured results, and the written report in `report/`. Ensure the instructor can access the repository.
